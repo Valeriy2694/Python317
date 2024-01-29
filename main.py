@@ -1381,4 +1381,7 @@ from random import randint
 # for i in res:
 #     print("Количество", i, "=", tpl.count(i))
 
-print("Hell world")
+# print("Hell world")
+
+print("Данные для добавления на GitHub")
+
