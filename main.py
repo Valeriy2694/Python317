@@ -1371,7 +1371,7 @@ from random import randint
 # a.pop()
 # print(a)
 
-
+#
 # tpl = tuple(input("Введите по порядку, без пробелов, элементы кортежа: "))
 # print(tpl)
 # res = []
@@ -1381,3 +1381,4 @@ from random import randint
 # for i in res:
 #     print("Количество", i, "=", tpl.count(i))
 
+print("Hell world")
